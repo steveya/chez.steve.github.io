@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://steveya.github.io/chez.steve.github.io/sitemap.xml
